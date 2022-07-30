@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-  margin: 30px;
+  margin: 25px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
@@ -37,5 +37,10 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+}
 
+.link{
+  color: #EEEEEE;
+  text-decoration: none;
+}
 }

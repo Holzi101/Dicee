@@ -43,4 +43,20 @@ footer {
   color: #EEEEEE;
   text-decoration: none;
 }
+
+#button{
+  text-align: center;
+  padding-top: 100px;
+}
+
+.dice-button, .refresh-button {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #fff;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 2px;
+  background-color: #393E46;
 }
